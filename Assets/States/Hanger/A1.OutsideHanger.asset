@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18e6c95b9a771a74986e31b8c85605e7, type: 3}
+  m_Name: A1.OutsideHanger
+  m_EditorClassIdentifier: 
+  storyText: "Festers, Everywhere. Armed mostly with gas-powered longed rocks flingers.
+    At least 10 of them guarding the hanger door. Typical.\r\n\r\nCould try punching
+    my way through. Or sneaking the long way to the emergency exit.\r\n\r\nWhat should
+    I do?\r\n1.Take them head on 1o guards.\r\n2. Sneak my way through to the emergency
+    exit."
+  nextStates:
+  - {fileID: 11400000, guid: a95dfeba5b7530945bfd5b93f7751e89, type: 2}
+  - {fileID: 11400000, guid: cfc6271d9bb9dc342be3f015b434a8a3, type: 2}

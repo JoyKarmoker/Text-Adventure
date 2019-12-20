@@ -1,0 +1,46 @@
+Festers, Everywhere. Armed mostly with gas-powered longed rocks flingers. At least 10 of them guarding the hanger door. Typical.
+
+Could try punching my way through. Or sneaking the long way to the emergency exit.
+
+What should I do?
+1.Take them head on 1o guards.
+2. Sneak my way through to the emergency exit.
+
+
+Well, that clearly wasn't the right choice. You failed. 
+
+No parade for you. Want to try again?
+1. Yes, this time I shall taste glory.
+2. No, I'm going to go sulk for a while.
+
+
+Welcome to this game. Its a choose your own adventure. Be careful what you wish for!
+At each stage you'll be asked to push a key on the keyboard,for example 1 or 2 or 3.
+At any point in time, push "q" to quit. Push "1" to continue...
+
+
+Well, that was pretty stupid. You sustain a brutal beating and end up dumped in a dirty cell. 
+The bars are thick cast iron. The door is old and patched together with plate metal and thick red wires. 
+You have no idea where you are. And your head hurts. 
+
+So, what to do now, slugger?
+	1. Wait it out. My head hurts.
+	2. Slam into the door with all my might.
+
+Okay, you're around the corner. No one can see you. You think.
+Bit tough to hear yourself think above the thumping machinery. 
+However, in front of you is the emergency exit door. 
+It has an oversized, cast iron lock hanging from a bolted handle. 
+You could try picking the lock, or maybe look for a way to pry it off.
+
+What to do?
+	1. Pick it.
+	2. Pry it.
+
+
+You give it a good 10 minutes. No dice. Not going to happen. 
+You do realise that you have no idea how to pick a lock right? 
+You're an airship pilot,  not a common thief. 
+
+So what now?
+1. Fine, try to pry it
